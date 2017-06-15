@@ -3,10 +3,12 @@ title: "Instructors"
 bg: blue
 color: white
 style: center
-fa-icon: user-circle
+fa-icon: user-circle-o
 ---
 
 ## Lecture Instructors 
+&nbsp
+&nbsp
 
 <div class="author">
     <a href="https://imatge.upc.edu/web/people/xavier-giro" target="_blank">
@@ -51,8 +53,12 @@ fa-icon: user-circle
     </a>
 </div>
 
+&nbsp
+&nbsp
 ## Teaching Assistants
 
+&nbsp
+&nbsp
 <div class="author">
     <a href="https://www.linkedin.com/in/eric-arazo-s%C3%A1nchez-230785bb/" target="_blank">
       <div class="authorphoto"><img src="img/assistants/EricArazo-160x160.jpg"></div>
