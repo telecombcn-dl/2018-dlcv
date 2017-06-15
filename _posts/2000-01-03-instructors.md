@@ -1,58 +1,33 @@
 ---
-title: "Instructors"
+title: "Keynotes"
 bg: #9AD1F5
 color: black
-fa-icon: cog
+style: center
+fa-icon: calendar
 ---
 
-| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![Kevin McGuinness][KevinMcGuinness-photo] | ![AmaiaSalvador][AmaiaSalvador-photo] | ![Elisa Sayrol][ElisaSayrol-photo]  | ![RamonMorros][RamonMorros-photo]  | ![VeronicaVilaplana][VeronicaVilaplana-photo]  | ![JavierRuiz][JavierRuiz-photo] |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Xavier Giro-i-Nieto (XG)][XavierGiro-web] | [Kevin McGuinness (KM)][KevinMcGuinness-web]  | [Amaia Salvador (AS)][AmaiaSalvador-web]   | [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Ramon Morros (RM)][VeronicaVilaplana-web]  | [Veronica Vilaplana (VV)][VeronicaVilaplana-web]   | [Javier Ruiz (JR)][JavierRuiz-web]  
+## Open Lectures by Guest Speakers 
+### (registration required)
 
-[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
-[KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
-[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
-[ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
-[RamonMorros-web]: https://imatge.upc.edu/web/people/josep-ramon-morros
-[VeronicaVilaplana-web]: https://imatge.upc.edu/web/people/veronica-vilaplana
-[JavierRuiz-web]: https://imatge.upc.edu/web/people/javier-ruiz-hidalgo
-
-
-[XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
-[KevinMcGuinness-photo]: img/instructors/Kevin160x160.jpg "Kevin McGuinness"
-[AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
-[ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
-[RamonMorros-photo]: img/instructors/RamonMorros.jpg "Ramon Morros"
-[VeronicaVilaplana-photo]: img/instructors/VeronicaVilaplana.jpg "Veronica Vilaplana"
-[JavierRuiz-photo]: img/instructors/JavierRuiz.jpg "Javier Ruiz"
+This 2017 edition of the seminar will include two invited talks on Tuesday 27 at 5pm in Aula de Teleensenyament, in the 2nd floor of the ETSETB TelecomBCN building B3, in Campus Nord UPC ([directions](http://etsetb.upc.edu/en/school/location-maps)). This session is open to the general public, but attendees must [RSVP / register here](https://www.eventbrite.com/e/open-lecture-on-deep-learning-for-vision-agata-lapedriza-and-elisenda-bou-tickets-35049410731).
 
 <div class="author">
-    <a href="https://imatge.upc.edu/" target="_blank">
-      <div class="authorphoto"><img src="./assets/author.jpg"></div>
-      <div>Author Name</div>
+    <a href="http://sunai.uoc.edu/~agata/" target="_blank">
+      <div class="authorphoto"><img src="img/guests/AgataLapedriza-160x160.jpg"></div>
+      <div>Àgata Lapedriza</div>
     </a>
 </div>
+
+Agata Lapedriza is an Associate Professor at the Universitat Oberta de Catalunya. She received her MS deegree in Mathematics at the Universitat de Barcelona in 2003, and her Ph.D. degree in Computer Science at the Computer Vision Center in 2009, at the Universitat Autonoma Barcelona. She was working as a visiting researcher in the Computer Science and Artificial Lab department at the Massachuetts Institute of Technology from 2012 until 2015. Her research interests are related to image understanding, scene and object recognition and affective computing.
+
+
 <div class="author">
-    <a href="https://imatge.upc.edu/" target="_blank">
-      <div class="authorphoto"><img src="./assets/author.jpg"></div>
-      <div>Author Name</div>
+    <a href="https://www.linkedin.com/in/elisendabou/?ppe=1" target="_blank">
+      <div class="authorphoto"><img src="img/guests/ElisendaBou-160x160.jpg"></div>
+      <div>Elisenda Bou</div>
     </a>
 </div>
-<div class="author">
-    <a href="https://imatge.upc.edu/" target="_blank">
-      <div class="authorphoto"><img src="./assets/author.jpg"></div>
-      <div>Author Name</div>
-    </a>
-</div>
-<div class="author">
-    <a href="https://imatge.upc.edu/" target="_blank">
-      <div class="authorphoto"><img src="./assets/author.jpg"></div>
-      <div>Author Name</div>
-    </a>
-</div>
-<div class="author">
-    <a href="https://imatge.upc.edu/" target="_blank">
-      <div class="authorphoto"><img src="./assets/author.jpg"></div>
-      <div>Author Name</div>
-    </a>
-</div>
+
+Dr. Bou is the co-Founder and CTO of [Vilynx](vilynx-web), a startup devoted to change the way people consume online videos through machine Learning. Dr Bou is also an associate professor at the Universitat Politècnica de Catalunya (UPC), lead SW Architect at UPC Nano-Satellite Lab (NanoSatLab), and collaborates with the MIT Aero-Astro Dept and the UMD Aerospace Engineering Dept. She was a recipient of the 2013 Google Faculty Research Awards.
+
+[vilynx-web]: http://www.vilynx.com/
