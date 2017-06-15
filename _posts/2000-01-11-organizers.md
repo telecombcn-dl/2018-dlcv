@@ -1,8 +1,7 @@
 ---
 title: "Organizers"
-bg: blue
-color: white
-style: center
+bg: #9AD1F5
+color: black
 fa-icon: thumbs-up
 ---
 
