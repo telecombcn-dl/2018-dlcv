@@ -1,4 +1,3 @@
-
 ---
 title: "Organizers"
 bg: blue
