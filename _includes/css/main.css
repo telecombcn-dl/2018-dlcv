@@ -263,17 +263,17 @@ nav ul li:hover, nav ul li.active {
 }
 
 .authorphoto img {
-  width: 140px;
-  border-radius: 140px;
+  width: 120px;
+  border-radius: 120px;
   margin-bottom: 10px;
 }
 
 .author {
   display: inline-block;
-  width: 140px;
-  font-size : 15px;
+  width: 120px;
+  font-size : 12px;
   text-align: center;
-  margin-right:10px;
+  margin-right:7px;
 }
 
 /* ----- fork on github banner ----- */
