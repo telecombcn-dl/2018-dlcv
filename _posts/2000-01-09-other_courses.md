@@ -5,7 +5,7 @@ color: black
 fa-icon: list
 ---
 
-## Previous and similar editions from the instructors
+## Previous editions
 
 
 * [Deep Learning for Computer Vision][DLCV2016]. UPC TelecomBCN 2016.
