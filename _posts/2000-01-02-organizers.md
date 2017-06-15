@@ -7,8 +7,6 @@ fa-icon: user-circle-o
 ---
 
 ## Lecture Instructors 
-&nbsp
-&nbsp
 
 <div class="author">
     <a href="https://imatge.upc.edu/web/people/xavier-giro" target="_blank">
@@ -53,9 +51,8 @@ fa-icon: user-circle-o
     </a>
 </div>
 
-&nbsp
-&nbsp
-## Teaching Assistants
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ## Teaching Assistants
 
 &nbsp
 &nbsp
