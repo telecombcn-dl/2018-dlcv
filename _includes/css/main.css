@@ -265,13 +265,13 @@ nav ul li:hover, nav ul li.active {
 .authorphoto img {
   width: 120px;
   border-radius: 120px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .author {
   display: inline-block;
   width: 120px;
-  font-size : 12px;
+  font-size : 15px;
   text-align: center;
   margin-right:7px;
 }
