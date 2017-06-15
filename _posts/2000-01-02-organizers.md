@@ -5,6 +5,8 @@ color: white
 fa-icon: quote-left
 ---
 
+## Lecture Instructors 
+
 <div class="author">
     <a href="https://imatge.upc.edu/web/people/xavier-giro" target="_blank">
       <div class="authorphoto"><img src="img/instructors/XavierGiro.jpg"></div>
@@ -45,5 +47,32 @@ fa-icon: quote-left
     <a href="https://imatge.upc.edu/web/people/javier-ruiz-hidalgo" target="_blank">
       <div class="authorphoto"><img src="img/instructors/JavierRuiz.jpg"></div>
       <div>Javier Ruiz</div>
+    </a>
+</div>
+
+## Teaching Assistants
+
+<div class="author">
+    <a href="https://www.linkedin.com/in/eric-arazo-s%C3%A1nchez-230785bb/" target="_blank">
+      <div class="authorphoto"><img src="img/assistants/EricArazo-160x160.jpg"></div>
+      <div>Eric Arazo</div>
+    </a>
+</div>
+<div class="author">
+    <a href="https://www.linkedin.com/in/eduard-ramon-maldonado-71951359/" target="_blank">
+      <div class="authorphoto"><img src="img/assistants/EduRamon-160x160.jpg"></div>
+      <div>Eduard Ramon</div>
+    </a>
+</div>
+<div class="author">
+    <a href="https://www.linkedin.com/in/marta-coll-043b0412b/" target="_blank">
+      <div class="authorphoto"><img src="img/assistants/MartaColl-160x160.jpg"></div>
+      <div>Marta Coll</div>
+    </a>
+</div>
+<div class="author">
+    <a href="https://www.linkedin.com/in/francisco-rold%C3%A1n-s%C3%A1nchez-870438113/" target="_blank">
+      <div class="authorphoto"><img src="img/assistants/FranRoldan-160x160.jpg"></div>
+      <div>Fran Roldán</div>
     </a>
 </div>
