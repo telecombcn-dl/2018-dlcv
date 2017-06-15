@@ -5,54 +5,45 @@ color: white
 fa-icon: quote-left
 ---
 
-| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![Kevin McGuinness][KevinMcGuinness-photo] | ![AmaiaSalvador][AmaiaSalvador-photo] | ![Elisa Sayrol][ElisaSayrol-photo]  | ![RamonMorros][RamonMorros-photo]  | ![VeronicaVilaplana][VeronicaVilaplana-photo]  | ![JavierRuiz][JavierRuiz-photo] |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Xavier Giro-i-Nieto (XG)][XavierGiro-web] | [Kevin McGuinness (KM)][KevinMcGuinness-web]  | [Amaia Salvador (AS)][AmaiaSalvador-web]   | [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Ramon Morros (RM)][VeronicaVilaplana-web]  | [Veronica Vilaplana (VV)][VeronicaVilaplana-web]   | [Javier Ruiz (JR)][JavierRuiz-web]  
-
 <div class="author">
-    <a href=[XavierGiro-web] target="_blank">
-      <div class="authorphoto"><img src=[XavierGiro-photo]></div>
+    <a href="https://imatge.upc.edu/web/people/xavier-giro" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/XavierGiro.jpg"></div>
       <div>Xavier Giró</div>
     </a>
 </div>
 <div class="author">
-    <a href="https://imatge.upc.edu/" target="_blank">
-      <div class="authorphoto"><img src="./assets/author.jpg"></div>
-      <div>Author Name</div>
+    <a href="https://www.insight-centre.org/users/kevin-mcguinness" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/Kevin160x160.jpg"></div>
+      <div>Kevin Mcguinness</div>
     </a>
 </div>
 <div class="author">
-    <a href="https://imatge.upc.edu/" target="_blank">
-      <div class="authorphoto"><img src="./assets/author.jpg"></div>
-      <div>Author Name</div>
+    <a href="https://imatge.upc.edu/web/people/amaia-salvador" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/AmaiaSalvador.jpg"></div>
+      <div>Amaia Salvador</div>
     </a>
 </div>
 <div class="author">
-    <a href="https://imatge.upc.edu/" target="_blank">
-      <div class="authorphoto"><img src="./assets/author.jpg"></div>
-      <div>Author Name</div>
+    <a href="https://imatge.upc.edu/web/people/elisa-sayrol" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/ElisaSayrol.jpg"></div>
+      <div>Elisa Sayrol</div>
     </a>
 </div>
 <div class="author">
-    <a href="https://imatge.upc.edu/" target="_blank">
-      <div class="authorphoto"><img src="./assets/author.jpg"></div>
-      <div>Author Name</div>
+    <a href="https://imatge.upc.edu/web/people/josep-ramon-morros" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/RamonMorros.jpg"></div>
+      <div>Ramon Morros</div>
     </a>
 </div>
-
-[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
-[KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
-[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
-[ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
-[RamonMorros-web]: https://imatge.upc.edu/web/people/josep-ramon-morros
-[VeronicaVilaplana-web]: https://imatge.upc.edu/web/people/veronica-vilaplana
-[JavierRuiz-web]: https://imatge.upc.edu/web/people/javier-ruiz-hidalgo
-
-
-[XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
-[KevinMcGuinness-photo]: img/instructors/Kevin160x160.jpg "Kevin McGuinness"
-[AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
-[ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
-[RamonMorros-photo]: img/instructors/RamonMorros.jpg "Ramon Morros"
-[VeronicaVilaplana-photo]: img/instructors/VeronicaVilaplana.jpg "Veronica Vilaplana"
-[JavierRuiz-photo]: img/instructors/JavierRuiz.jpg "Javier Ruiz"
+<div class="author">
+    <a href="https://imatge.upc.edu/web/people/veronica-vilaplana" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/VeronicaVilaplana.jpg"></div>
+      <div>Veronica Vilaplana</div>
+    </a>
+</div>
+<div class="author">
+    <a href="https://imatge.upc.edu/web/people/javier-ruiz-hidalgo" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/JavierRuiz.jpg"></div>
+      <div>Javier Ruiz</div>
+    </a>
+</div>
