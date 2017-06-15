@@ -2,7 +2,8 @@
 title: "Instructors"
 bg: blue
 color: white
-fa-icon: quote-left
+style: center
+fa-icon: user-circle
 ---
 
 ## Lecture Instructors 
