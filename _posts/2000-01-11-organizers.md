@@ -3,7 +3,7 @@ title: "Organizers"
 bg: #9AD1F5
 color: black
 style: center
-fa-icon: thumbs-up
+fa-icon: cog
 ---
 
 <a href="https://www.etsetb.upc.edu/en/"><img src="img/logos/etsetb.png" alt="ETSETB" style="width: 200px;"/></a>
