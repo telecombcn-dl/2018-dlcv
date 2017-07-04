@@ -11,16 +11,12 @@ fa-icon: cog
 ETSETB Telecom BCN
 <br>
 <br>
+<a href="https://www.fib.upc.edu/ca"><img src="img/logos/fib.png" alt="GC" style="width: 200px;"/></a>
+<br>
+Facultat d'Inform&agrave;tica de Barcelona (FIB)
+<br>
+<br>
 <a href="https://imatge.upc.edu/web/"><img src="img/logos/upc.png" alt="UPC" style="width: 200px;"/></a>
 <br>
 Universitat Politècnica de Catalunya
 <br>
-<br>
-<a href="https://www.insight-centre.org/"><img src="img/logos/insight.png" alt="GC" style="width: 200px;"/></a>
-<br>
-Insight Centre for Data Analytics
-<br>
-<br>
-<a href="http://www.dcu.ie/"><img src="img/logos/dcu.png" alt="Nvidia" style="width: 200px;"/></a>
-<br>
-Dublin City University
