@@ -7,8 +7,8 @@ fa-icon: list
 
 ## Previous editions
 
-* Deep Learning for Computer Vision UPC TelecomBCN. [2016][DLCV2016] [2017][DLCV2017]
-* Deep Learning for Speech and Language UPC TelecomBCN. [2017][DLSL2017] [2018][DLSL2018]
+* Deep Learning for Computer Vision UPC TelecomBCN. [[2016]][DLCV2016] [[2017]][DLCV2017]
+* Deep Learning for Speech and Language UPC TelecomBCN. [[2017]][DLSL2017] [[2018]][DLSL2018]
 * [Deep Learning for Multimedia][DLMM2017]. Insight Dublin City University 2017.
 * [Introduction to Deep Learning][IDL2018]. UPC TelecomBCN 2018.
 * [Deep Learning for Artificial Intelligence][DLAI2017]. UPC TelecomBCN 2017.
