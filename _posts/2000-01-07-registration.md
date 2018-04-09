@@ -19,6 +19,10 @@ You should not sign up for this course. Build a strong basis whether by attendin
 
 * __Master students at ETSETB__: Registration is available from the [ETSETB academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta). There is an extraordinary registration around early/mid June, check with the academic office.
 
+* __Bachelor (grau) students at ETSETB__: You can register these credits as "conjunt d'activitats d'extensió universitària". Registration is available from the [ETSETB academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta). There is an extraordinary registration around early/mid June, check with the academic office.
+
+* __CFIS students__: Register directly at the [CFIS academic office](https://cfis.upc.edu/ca).
+
 * __Master students at FIB__: Contact the FIB academic office. They will collect all applications and submit them to ETSTEB for approval. 
 
 * __Other students at UPC__: You might audit the course, with no official certification. If interested, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfnlQgg9ZHfDODwikN-4TEfbFrTbAEHCRquGnosFT25qTNpWQ/viewform?usp=sf_link) before 14 June 2018. 
