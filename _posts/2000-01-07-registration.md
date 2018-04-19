@@ -23,7 +23,7 @@ You should not sign up for this course. Build a strong basis whether by attendin
 
 * __CFIS students__: Register directly at the [CFIS academic office](https://cfis.upc.edu/ca).
 
-* __Master students at FIB__: Contact the FIB academic office. They will collect all applications and submit them to ETSTEB for approval. 
+* __Master students at FIB__: Contact the FIB academic office. They will collect all applications and submit them to ETSETB for approval. 
 
 * __Other students at UPC & Master in Computer Vision__: You might audit the course, with no official certification. If interested, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfnlQgg9ZHfDODwikN-4TEfbFrTbAEHCRquGnosFT25qTNpWQ/viewform?usp=sf_link) before 14 June 2018. You may be granted a seat, if there are any available after ETSETB, CFIS & FIB students have signed up.
 
