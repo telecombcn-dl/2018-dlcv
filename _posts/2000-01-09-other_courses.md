@@ -19,7 +19,7 @@ fa-icon: list
 
 [DLCV2016]: http://imatge-upc.github.io/telecombcn-2016-dlcv/
 [DLCV2017]: https://telecombcn-dl.github.io/2017-dlcv/
-[DLV]: https://mcv-m6-video.github.io/deepvideo-2018/
+[DLV2018]: https://mcv-m6-video.github.io/deepvideo-2018/
 [DLSL2017]: https://telecombcn-dl.github.io/2017-dlsl/
 [DLSL2018]: https://telecombcn-dl.github.io/2018-dlsl/
 [DLMM2017]: https://telecombcn-dl.github.io/dlmm-2017-dcu/
