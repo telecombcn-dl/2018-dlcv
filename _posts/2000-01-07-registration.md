@@ -17,9 +17,10 @@ You should not sign up for this course. Build a strong basis whether by attendin
 
 **If you have taken a previous edition of DLAI, DLCV, DLSL or have previous experience on deep learning:**
 
-* __Master students at ETSETB__: Registration is available from the [ETSETB academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta). There is an extraordinary registration around early/mid June, check with the academic office.
+* __Master students at ETSETB__: Registration is available from the [ETSETB academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta). There is an extraordinary registration between May 28th and June 1st, 2018. You can request it from [esecretaria](https://esecretaria.upc.edu) and choose "Procedures > related to enrollment". There you must choose "Enrollment change" or "add a subject". Only requests made this way will be taken into account. 
+ 
 
-* __Bachelor (grau) students at ETSETB__: You can register these credits as "conjunt d'activitats d'extensió universitària". Registration is available from the [ETSETB academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta). There is an extraordinary registration around early/mid June, check with the academic office.
+* __Bachelor (grau) students at ETSETB__: You can register these credits as "conjunt d'activitats d'extensió universitària". Registration is available from the [ETSETB academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta). There is an extraordinary registration between May 28th and June 1st, 2018. You can request it from [esecretaria](https://esecretaria.upc.edu) and choose "Procedures > related to enrollment". There you must choose "Enrollment change" or "add a subject". Only requests made this way will be taken into account.
 
 * __CFIS students__: Register directly at the [CFIS academic office](https://cfis.upc.edu/ca).
 
